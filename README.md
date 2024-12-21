@@ -1,4 +1,4 @@
-# Oyun Parkı Oyunu
+# Oyun Parkı
 
 Oyun Parkı Oyunu, gelişim çağındaki çocuklar için tasarlanmış, eğitici ve eğlenceli bir mobil uygulamadır. Bu oyun, çocukların eğitim ve eğlence dengesini bulmalarına yardımcı olurken motor beceriler, problem çözme yeteneği ve yaraticilik gibi özelliklerini geliştirmeyi amaçlamaktadır.
 
